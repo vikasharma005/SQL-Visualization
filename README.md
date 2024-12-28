@@ -1,6 +1,4 @@
-> 👾 📢 Join our [Discord](https://discord.gg/4DGNMe6pzW) or email us at [founders@aisqlgen.com](mailto:founders@aisqlgen.com) for updates, support, and more!
-
-# AI SQL Gen
+# SQL Visualization
 
 Don't write SQL by hand. Use LLMs to link to your SQL database, then generate, edit SQL, and auto-generate visualization. Run it locally.
 
@@ -101,9 +99,4 @@ All data is saved locally - none of your API Key or data source information is s
 
 1. More database connectors
 2. More visualization outside of Chart.js
-3. Email us at founders@aisqlgen.com
-"# SQL-Pro" 
-# SQL-Pro
-"# SQL-Pro" 
-"# SQL_Vizualizer" 
-"# SQL_Vizualizer" 
+3. Email us at vikas.sharma005@protonmail.com
